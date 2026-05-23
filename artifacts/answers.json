@@ -1,0 +1,57 @@
+[
+  {
+    "query_id": "Q1",
+    "answer_label": "grounded_answer",
+    "answer": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minute [Password reset and account recovery \u00a7chunk_1]",
+    "citations": [
+      "[Password reset and account recovery \u00a7chunk_1]"
+    ],
+    "used_chunk_ids": [
+      "chunk_1"
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "answer_label": "grounded_answer",
+    "answer": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minute [Password reset and account recovery \u00a7chunk_1]",
+    "citations": [
+      "[Password reset and account recovery \u00a7chunk_1]"
+    ],
+    "used_chunk_ids": [
+      "chunk_1"
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "answer_label": "grounded_answer",
+    "answer": "s.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is en [Password reset and account recovery \u00a7chunk_2]",
+    "citations": [
+      "[Password reset and account recovery \u00a7chunk_2]"
+    ],
+    "used_chunk_ids": [
+      "chunk_2"
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "answer_label": "grounded_answer",
+    "answer": "s.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is en [Password reset and account recovery \u00a7chunk_2]",
+    "citations": [
+      "[Password reset and account recovery \u00a7chunk_2]"
+    ],
+    "used_chunk_ids": [
+      "chunk_2"
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "answer_label": "grounded_answer",
+    "answer": "e user must complete identity verification before 2FA can be reset. [Password reset and account recovery \u00a7chunk_4]",
+    "citations": [
+      "[Password reset and account recovery \u00a7chunk_4]"
+    ],
+    "used_chunk_ids": [
+      "chunk_4"
+    ]
+  }
+]

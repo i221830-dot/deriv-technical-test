@@ -1,0 +1,34 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "doc_title": "Password reset and account recovery",
+    "section": "Login help",
+    "text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minute",
+    "start_char": 0,
+    "end_char": 120
+  },
+  {
+    "chunk_id": "chunk_2",
+    "doc_title": "Password reset and account recovery",
+    "section": "Login help",
+    "text": "s.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is en",
+    "start_char": 120,
+    "end_char": 240
+  },
+  {
+    "chunk_id": "chunk_3",
+    "doc_title": "Password reset and account recovery",
+    "section": "Login help",
+    "text": "abled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, th",
+    "start_char": 240,
+    "end_char": 360
+  },
+  {
+    "chunk_id": "chunk_4",
+    "doc_title": "Password reset and account recovery",
+    "section": "Login help",
+    "text": "e user must complete identity verification before 2FA can be reset.",
+    "start_char": 360,
+    "end_char": 427
+  }
+]
